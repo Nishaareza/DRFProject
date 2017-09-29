@@ -1,0 +1,9 @@
+# Specifies intentionally untracked files to ignore when using Git
+
+.env*
+*.apk
+node_modules/
+bower_components/
+drf_sample/
+drf-sample/
+__pycache__/
